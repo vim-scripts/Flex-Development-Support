@@ -1,0 +1,41 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2909
+
+Adobe Flex is a highly productive, free open source framework for building and maintaining expressive web applications that deploy consistently on all major browsers, desktops, and operating systems.  Flex applications can be built using the free Flex SDK (http://www.adobe.com/cfusion/entitlement/index.cfm?e=flex3sdk).
+
+Here is a snippet from :h flex.txt (after installing).
+
+This document outlines the various features the Vim Flex Development Support suite provides and how to interact with it to enhance the Vim development experience for Flex applications.
+
+1. Overview
+2. Filetypes
+3. Navigation
+    3.1 Matchit
+    3.2 Text Object Motions
+    3.3 Macros
+    3.4 Imports
+4. OMNI MXML Completion
+5. Compilation
+    5.1 mxmlc
+    5.2 Ant 
+6. Indenting
+7. Syntax Highlighting
+8. Flex Tutorial
+    8.1 Code Completion
+    8.2 Imports
+    8.3 Compiling
+        8.3.1 mxmlc
+        8.3.2 Ant
+
+Essentially, this suite provides:
+    file type support
+    indent
+    syntax
+    compiler
+    code completion
+    
+Since this is a new project, please post to vim_use with comments and suggestions.  Especially if you are having difficultly getting things working as expected.
+
+
+If someone knows how to generate a list of classes and the associated methods for ActionScript, please let me know.  I will add code completion for it in addition to the MXML code completion.
+
+
