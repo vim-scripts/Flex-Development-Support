@@ -1,6 +1,9 @@
-*flex.txt*	For Vim version 7.0.  Last change: 2009 Dec 30
+*flex.txt*	For Vim version 7.0.  Last change: 2010 Jan 08
 
 by David Fishburn
+
+Download updates to the Flex Development Support suite here:
+http://www.vim.org/scripts/script.php?script_id=2909
 
 Adobe Flex is a highly productive, free open source framework for building
 and maintaining expressive web applications that deploy consistently on all
@@ -286,6 +289,9 @@ namespaces exist in $VIMRUNTIME/autoload/xml/mxml_*.vim.
 
 See the |mxml-completion-tutorial| for examples.
 
+If someone knows how to generate a list of classes and the associated methods
+for ActionScript, please let me know.  I will add code completion for it in
+addition to the MXML code completion.
 
 ==============================================================================
 5. Flex Compilation				*flex-compile*
@@ -410,6 +416,13 @@ First, create a new buffer: >
 -------------------     			*omni-flex-completion-tutorial*
 						*mxml-completion-tutorial*
 
+If someone knows how to generate a list of classes and the associated methods
+for ActionScript, please let me know.  I will add code completion for it in
+addition to the MXML code completion.
+
+If someone knows how to generate a list of classes and the associated methods
+for ActionScript, please let me know.  I will add code completion for it in
+addition to the MXML code completion.
 Assuming you have already read |flex-completion|, add the following to the
 buffer: >
     <?xml version="1.0" encoding="utf-8"?>
