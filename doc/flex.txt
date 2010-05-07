@@ -1,4 +1,4 @@
-*flex.txt*	For Vim version 7.0.  Last change: 2010 Jan 08
+*flex.txt*	For Vim version 7.0.  Last change: 2010 May 05
 
 by David Fishburn
 

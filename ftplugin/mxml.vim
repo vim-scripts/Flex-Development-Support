@@ -2,7 +2,7 @@
 " Language:    MXML (Flex development)
 " Version:     1.0
 " Maintainer:  David Fishburn <dfishburn at gmail dot com>
-" Last Change: 2009 Aug 31
+" Last Change: 2010 May 05
 
 " Only do this when not done yet for this buffer
 if exists("b:did_ftplugin")
